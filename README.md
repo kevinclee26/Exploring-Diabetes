@@ -11,4 +11,4 @@ This is a very popular dataset for people who are interested in Diabetes or heal
 - stacked bar charts
 
 ### Here is a sample output for one submission (out of 70 people): 
-![Image](https://github.com/kevinclee26/Exploring_Diabetes/master/image.png)
+![Image](image.png)
