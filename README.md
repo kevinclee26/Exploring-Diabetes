@@ -11,4 +11,5 @@ This is a very popular dataset for people who are interested in Diabetes or heal
 - stacked bar charts
 
 ### Here is a sample output for one submission (out of 70 people): 
+Looking at each of the submissions and also in aggregate, one can easily see the relationship between food, exercise, insulin dosage, and the BGM measurement. 
 ![Image](image.png)
